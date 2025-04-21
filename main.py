@@ -2,6 +2,7 @@ import cv2
 from PIL import Image
 from deepface import DeepFace
 
+
 userImage = 'images/user1.jpg'
 userImage2 = 'images/user2.jpg'
 userImage3 = 'images/user3.jpg'
